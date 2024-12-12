@@ -10,3 +10,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,python,anaconda,pytorch,tensorflow,opencv,mysql,linux,bash"/>
   </a>
 </p>
+
+<p align="center">
+  <img height="30em" src="https://komarev.com/ghpvc/?username=Weverton-Vitor&color=orange&style=for-the-badge&label=Profile%20Views%20&logo=github&abbreviated=true" alt="Weverton's Profile Views Counter">
+</p>
