@@ -14,3 +14,12 @@
 <p align="center">
   <img height="30em" src="https://komarev.com/ghpvc/?username=Weverton-Vitor&color=orange&style=for-the-badge&label=Profile%20Views%20&logo=github&abbreviated=true" alt="Weverton's Profile Views Counter">
 </p>
+
+<div>
+  <h3 align="left">Connect with me:</h3>
+  <a target="_blank" href="https://www.linkedin.com/in/weverton-vitor/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wevss1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank"></a>
+  <a target="_blank" href="https://www.codewars.com/users/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" target="_blank"></a>
+ 
+</div>
